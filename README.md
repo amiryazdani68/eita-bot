@@ -1,2 +1,2 @@
 # eita-bot
-# bot for connect eita and teading view
+# bot for connect eita and treading view
