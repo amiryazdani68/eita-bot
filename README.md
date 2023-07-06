@@ -1,2 +1,2 @@
 # eita-bot
-# bot for connect eita and teading viwe
+# bot for connect eita and teading view
